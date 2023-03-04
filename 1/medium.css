@@ -1,0 +1,11 @@
+#img-1 {
+  background-image: url("2.jpg");
+}
+
+#container-mid > .image {
+  height: 50%;
+}
+
+#container-mid > .image:last-child {
+  min-width: 100vw;
+}
